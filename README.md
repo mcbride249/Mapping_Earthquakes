@@ -3,6 +3,7 @@
 
 ![Summary - Image 1](https://user-images.githubusercontent.com/92111396/151264994-97cc03b9-63dc-413e-a53e-ffd50afa68b7.png)
 
+https://github.com/mcbride249/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Summary%20-%20Image%201.png
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -38,10 +39,15 @@ The purpose of this assignment was to create an earthquake map with edifferent o
 
 ![Deliverable 1 - Image 1](https://user-images.githubusercontent.com/92111396/151263132-8d9c0e73-44c9-4222-b5b3-e6aadcb2c1fb.png)
 
+https://github.com/mcbride249/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%201%20-%20Image%201.png
+
 This above image illustrates the "Streets" overlay with both the "Earthquakes" and "Tectonic Plates" data displayed.
 
 
+
 ![Deliverable 1 - Image 2](https://user-images.githubusercontent.com/92111396/151263399-1dd342f4-b450-4f01-a44e-e63c23363bba.png)
+
+https://github.com/mcbride249/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%201%20-%20Image%202.png
 
 This above image illustrates the "Satellite" overlay with only the "Tectonic Plates" data displayed.
 
@@ -51,10 +57,15 @@ This above image illustrates the "Satellite" overlay with only the "Tectonic Pla
 
 ![Deliverable 2 - Image 1](https://user-images.githubusercontent.com/92111396/151263750-a51c8627-fd08-4655-a92d-1009888eb609.png)
 
+https://github.com/mcbride249/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%202%20-%20Image%201.png
+
 This above image illustrates the "Streets" overlay with only the "Major Eathquakes" data displayed.
 
 
+
 ![Deliverable 2 - Image 2](https://user-images.githubusercontent.com/92111396/151263775-f6a61597-e53c-4007-8f86-1f4e646e2393.png)
+
+https://github.com/mcbride249/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%202%20-%20Image%202.png
 
 This above image illustrates the "Satellite" overlay with both the "Major Earthquakes" and "Tectonic Plates" data displayed.
 
@@ -66,6 +77,8 @@ This above image illustrates the "Satellite" overlay with both the "Major Earthq
 A new "Dark" overlay was created as an additional map. This dark overlay created an issue where some of the major earthquake data could not be displayed due to colour contrast, so the colour was changed from black to purple.  
 
 ![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/151264035-3c44ff59-b2e5-4e76-a0aa-54e386db52d4.png)
+
+https://github.com/mcbride249/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%203%20-%20Image%201.png
 
 This above image illustrates the "Dark" overlay with both the "Earthquakes", "Major Earthquakes" and "Tectonic Plates" data displayed.
 
@@ -79,6 +92,6 @@ The data was able to be displayed correctly for "Earthquakes", "Major Earthquake
 
 ![Summary - Image 2](https://user-images.githubusercontent.com/92111396/151265014-9ab77f3d-341d-4b3f-b8e7-d539560dfe32.png)
 
-
+https://github.com/mcbride249/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Summary%20-%20Image%202.png
 
 
