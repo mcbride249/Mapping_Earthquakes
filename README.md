@@ -45,15 +45,20 @@ This above image illustrates the "Satellite" overlay with only the "Tectonic Pla
 
 **Deliverable 2: Add Major Earthquake Data**
 
+![Deliverable 2 - Image 1](https://user-images.githubusercontent.com/92111396/151263750-a51c8627-fd08-4655-a92d-1009888eb609.png)
+
+This above image illustrates the "Streets" overlay with only the "Major Eathquakes" data displayed.
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Deliverable 2 - Image 2](https://user-images.githubusercontent.com/92111396/151263775-f6a61597-e53c-4007-8f86-1f4e646e2393.png)
+
+This above image illustrates the "Satellite" overlay with both the "Major Earthquakes" and "Tectonic Plates" data displayed.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Deliverable 3: Add an Additional Map**
 
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
