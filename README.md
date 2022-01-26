@@ -37,8 +37,6 @@ The purpose of this assignment was to create an earthquake map with edifferent o
 This above image illustrates the "Streets" overlay with both the "Earthquakes" and "Tectonic Plates" data displayed.
 
 
-
-
 ![Deliverable 1 - Image 2](https://user-images.githubusercontent.com/92111396/151263399-1dd342f4-b450-4f01-a44e-e63c23363bba.png)
 
 This above image illustrates the "Satellite" overlay with only the "Tectonic Plates" data displayed.
