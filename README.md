@@ -10,11 +10,15 @@ The purpose of this project was to visually show the differences between the mag
 
 ## **Resources**
 
--Data Source: tectonic_plate_starter_code.js; major_earthquake_chart_starter_code; https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson; https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson.
+-Data Source: tectonic_plate_starter_code.js; major_earthquake_chart_starter_code; 
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson; 
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson.
 
 -Software: Python 3.7.10, Visual Studio Code, 1.38.1.
 
--Resources: https://docs.mapbox.com/; https://earthquake.usgs.gov/earthquakes;  https://github.com/fraxen/tectonicplates
+-Resources: https://docs.mapbox.com/; 
+https://earthquake.usgs.gov/earthquakes;  
+https://github.com/fraxen/tectonicplates
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -70,4 +74,5 @@ This above image illustrates the "Dark" overlay with both the "Earthquakes", "Ma
 
 ## **Summary**
 
+The data was able to be displayed correctly for "Earthquakes", "Major Earthquakes" and "Tectonic Plates". A new "Dark" overlay was successfully created and overlays and data projections functioned correctly.
 
