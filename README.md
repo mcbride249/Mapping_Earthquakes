@@ -59,8 +59,11 @@ This above image illustrates the "Satellite" overlay with both the "Major Earthq
 
 **Deliverable 3: Add an Additional Map**
 
+A new "Dark" overlay was created as an additional map. This dark overlay created an issue where some of the major earthquake data could not be displayed due to colour contrast, so the colour was changed from black to purple.  
 
+![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/151264035-3c44ff59-b2e5-4e76-a0aa-54e386db52d4.png)
 
+This above image illustrates the "Dark" overlay with both the "Earthquakes", "Major Earthquakes" and "Tectonic Plates" data displayed.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
