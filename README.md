@@ -1,5 +1,9 @@
 # Mapping_Earthquakes
 
+
+![Summary - Image 1](https://user-images.githubusercontent.com/92111396/151264994-97cc03b9-63dc-413e-a53e-ffd50afa68b7.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Project Overview**
@@ -71,4 +75,10 @@ This above image illustrates the "Dark" overlay with both the "Earthquakes", "Ma
 ## **Summary**
 
 The data was able to be displayed correctly for "Earthquakes", "Major Earthquakes" and "Tectonic Plates". A new "Dark" overlay was successfully created and overlays and data projections functioned correctly.
+
+
+![Summary - Image 2](https://user-images.githubusercontent.com/92111396/151265014-9ab77f3d-341d-4b3f-b8e7-d539560dfe32.png)
+
+
+
 
