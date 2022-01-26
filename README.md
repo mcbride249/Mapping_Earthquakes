@@ -32,13 +32,14 @@ The purpose of this assignment was to create an earthquake map with edifferent o
 
 **Deliverable 1: Add Tectonic Plate Data**
 
-This below image illustrates the "Streets" overlay with both the "Earthquakes" and "Tectonic Plates" data displayed.
-
 ![Deliverable 1 - Image 1](https://user-images.githubusercontent.com/92111396/151263132-8d9c0e73-44c9-4222-b5b3-e6aadcb2c1fb.png)
 
-This below image illustrates the "Satellite" overlay with only the "Tectonic Plates" data displayed.
+This below image illustrates the "Streets" overlay with both the "Earthquakes" and "Tectonic Plates" data displayed.
+
 
 ![Deliverable 1 - Image 2](https://user-images.githubusercontent.com/92111396/151263399-1dd342f4-b450-4f01-a44e-e63c23363bba.png)
+
+This below image illustrates the "Satellite" overlay with only the "Tectonic Plates" data displayed.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
